@@ -1,0 +1,110 @@
+html, body{
+    margin: 0;
+    height: 100%;
+    width:100%;
+}
+
+body {
+   background-color: #9ab5bc;
+}
+
+.header{
+   background-image: url("header.jpg");
+   background-size: cover;
+   border: 2px solid  #FFEBCD;
+   top: 0px;
+   left: 0px;
+   width: 1366px;
+   height: 300px;
+   background-size: cover;
+   position: absolute;
+   border-radius: 1px;
+}
+
+.body{
+   background-image: url("bg1.jpg");
+   height: 100%;
+   background-size: cover;
+   border: 2px solid  #FFEBCD;
+   top: 303px;
+   left: 0px;
+   width: 1366px;
+   height: 690px;
+   position: absolute;
+   border-radius: 1px;
+}
+
+
+
+/*.footer{
+  background-color: yellow;
+    height:0px;
+    width:1360px;
+}*/
+.button1{
+  background-color: #33708f;
+  border:2px solid white;
+  padding: 12px 16px;
+  font-family: 'Indie Flower', cursive;
+  color:white;
+  position:absolute;
+  left:300px;
+  top:190px;
+  width:158px;
+}
+.button2{
+  background-color: #33708f;
+  border:2px solid white;
+  padding: 12px 16px;
+  font-family: 'Indie Flower', cursive;
+  color:white;
+  position:absolute;
+  left:457px;
+  top:190px;
+  width:168px;
+}
+.button3{
+  background-color: #33708f;
+  border:2px solid white;
+  padding: 12px 16px;
+  font-family: 'Indie Flower', cursive;
+  color:white;
+  position:absolute;
+  left:624px;
+  top:190px;
+  width:178px;
+}
+.button4{
+  background-color: #33708f;
+  border:2px solid white;
+  padding: 12px 16px;
+  font-family: 'Indie Flower', cursive;
+  color:white;
+  position:absolute;
+  left:794px;
+  top:190px;
+  width:158px;
+}
+.button5{
+  background-color: #33708f;
+  border:2px solid white;
+  padding: 12px 16px;
+  font-family: 'Indie Flower', cursive;
+  color:white;
+  position:absolute;
+  left:947px;
+  top:190px;
+  width:148px;
+}
+
+.footer{
+   background-color: pink;
+   border: 2px solid  #FFEBCD;
+   top: 1000px;
+   left: 300px;
+   width: 792px;
+   height: 200px;
+   position: absolute;
+   border-radius: 1px;
+}
+}
