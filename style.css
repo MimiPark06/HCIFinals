@@ -23,14 +23,14 @@ body {
 }
 
 .body{
-   background-image: url("bg1.jpg");
+   background-image: url("bg.jpg");
    height: 100%;
    background-size: cover;
    border: 2px solid  #FFEBCD;
    top: 303px;
    left: 0px;
    width: 1360px;
-   height: 690px;
+   height: 750px;
    position: absolute;
    border-radius: 1px;
 }
@@ -107,14 +107,42 @@ body {
   height: 70px;
   width:270px;
 }
+.button6{
+  background-color: #f1c6ea;
+  border:2px solid white;
+  padding: 12px 16px;
+  font-family: 'Indie Flower', cursive;
+  font-size:23px;
+  color:white;
+  position:absolute;
+  left:1000px;
+  top:550px;
+  height: 70px;
+  width:270px;
+}
+
+.button7{
+  background-color: #f1c6ea;
+  border:2px solid white;
+  padding: 12px 16px;
+  font-family: 'Indie Flower', cursive;
+  font-size:30px;
+  color:white;
+  position:absolute;
+  left:1000px;
+  top:650px;
+  height: 70px;
+  width:270px;
+}
+
 
 .footer{
    background-color: pink;
    border: 2px solid  #FFEBCD;
-   top: 996px;
+   top: 1010px;
    left: 0px;
    width: 1360px;
-   height: 200px;
+   height: 50px;
    position: absolute;
    border-radius: 1px;
 }
