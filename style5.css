@@ -128,6 +128,43 @@ body {
   width:270px;
 }
 
+.button1:hover{
+  background-color:#b05dab;
+    color: black;
+    border: 2px solid white;
+    -webkit-transition: all 0.3s ease-out;
+        transition: all 0.3s ease-out;
+}
+
+.button2:hover{
+  background-color:#b05dab;
+    color: black;
+    border: 2px solid white;
+    -webkit-transition: all 0.3s ease-out;
+        transition: all 0.3s ease-out;
+}
+
+.button3:hover{
+  background-color:#b05dab;
+    color: black;
+    border: 2px solid white;
+    -webkit-transition: all 0.3s ease-out;
+        transition: all 0.3s ease-out;
+}
+.button4:hover{
+  background-color:#b05dab;
+    color: black;
+    border: 2px sol#b05dab;
+    -webkit-transition: all 0.3s ease-out;
+        transition: all 0.3s ease-out;
+}
+.button5:hover{
+  background-color:#b05dab;
+    color: black;
+    border: 2px solid white;
+    -webkit-transition: all 0.3s ease-out;
+        transition: all 0.3s ease-out;
+}
 
 .footer{
    background-color: pink;
