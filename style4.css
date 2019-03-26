@@ -10,7 +10,7 @@ body {
 }
 
 .header{
-   background-image: url("test header.jpg");
+   background-image: url("test-header.jpg");
    background-size: cover;
    border: 2px solid  #FFEBCD;
    top: 0px;
@@ -148,6 +148,73 @@ body {
     border: 2px solid white;
     -webkit-transition: all 0.3s ease-out;
         transition: all 0.3s ease-out;
+}
+
+.q1box{
+    background-color: #e7c9b6;
+    border: 0px solid  #FFEBCD;
+    top: 120px;
+    left: 700px;
+    width: 500px;
+    height: 100px;
+    position: absolute;
+    border-radius: 5px;
+    opacity: ;
+}
+.q1{
+     top: 130px;
+    position: absolute;
+    left: 720px;
+    height: 50px;
+    width: 290px;
+    font-size: 20px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+p1{
+  top: 140px;
+  left: 720px;
+}
+
+.q2box{
+    background-color: #e7c9b6;
+    border: 0px solid  #FFEBCD;
+    top: 300px;
+    left: 700px;
+    width: 500px;
+    height: 100px;    
+    position: absolute;
+    border-radius: 5px;
+    opacity: ;
+}
+.q2{
+     top: 310px;
+    position: absolute;
+    left: 720px;
+    height: 50px;
+    width: 290px;
+    font-size: 20px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.q3box{
+    background-color: #e7c9b6;
+    border: 0px solid  #FFEBCD;
+    top: 480px;
+    left: 700px;
+    width: 500px;
+    height: 100px;
+    position: absolute;
+    border-radius: 5px;
+    opacity: ;
+}
+.q3{
+     top: 490px;
+    position: absolute;
+    left: 720px;
+    height: 50px;
+    width: 290px;
+    font-size: 20px;
+   font-family: 'Gloria Hallelujah', cursive;
 }
 
 .footer{
